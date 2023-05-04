@@ -1,0 +1,2 @@
+a = "Assalomu alaykum"
+print(a)
